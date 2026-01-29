@@ -7,3 +7,8 @@
 # Credits
 
 1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
+
+# install
+```shell
+git clone --depth 1 https://github.com/For-December/nv-chard-starter.git ~/.config/nvim && nvim
+```
