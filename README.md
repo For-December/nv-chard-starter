@@ -12,3 +12,8 @@
 ```shell
 git clone --depth 1 https://github.com/For-December/nv-chard-starter.git ~/.config/nvim && nvim
 ```
+
+# language
+```
+:MasonInstall clangd pyright gopls
+```
